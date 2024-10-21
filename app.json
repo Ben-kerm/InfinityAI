@@ -49,7 +49,7 @@
 "APP_NAME": {
   "description": "App name exactlyas the one above",
   "required": true,
-  "value": ""
+  "value": "43246973"
 },
 "HEROKU_API": {
   "description": "Get from heroku account settings tab",
@@ -59,7 +59,7 @@
 "OWNER": {
   "description": "Type the numbers you will like to be Owners,Separate with a comma.",
   "required": false,
-  "value": "254798242085"
+  "value": "50943246973"
 }
   },
   "buildpacks": [
