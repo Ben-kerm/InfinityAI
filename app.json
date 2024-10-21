@@ -54,12 +54,12 @@
 "HEROKU_API": {
   "description": "Get from heroku account settings tab",
   "required": true,
-  "value": ""
+  "value": "50943246973"
 },
 "OWNER": {
-  "description": "Type the numbers you will like to be Owners,Separate with a comma.",
+  "description": "50943246973.",
   "required": false,
-  "value": "254798242085"
+  "value": ""
 }
   },
   "buildpacks": [
